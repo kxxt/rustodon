@@ -2,6 +2,11 @@
 name = "rustodon"
 version = "0.1.0"
 edition = "2021"
+authors = ["kxxt <rsworktech@outlook.com>"]
+description = "This package is just a place holder for now, but perhaps I will do something with it later."
+homepage = "https://github.com/kxxt/rustodon"
+repository = "https://github.com/kxxt/rustodon"
+keywords = ["mastodon", "rustodon"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
