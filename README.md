@@ -4,7 +4,7 @@ This is a placeholder for a Mastodon library written in Rust.
 
 I do want to create such a library but now I'm busy with other things. 
 
-If you have created a high-quality rust library for mastodon and would like to use this name, please contact me via email(kxxt@kxxt.dev).
+If you have created a high-quality rust library for mastodon and would like to use this name on crates.io, please contact me via email(kxxt@kxxt.dev).
 
 Please note there are certain requirements for the name to be transferred:
 
